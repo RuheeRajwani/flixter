@@ -8,13 +8,13 @@ Time spent: **20** hours spent in total
 
 The following **required** functionality is complete:
 
-- [X ] User sees an app icon on the home screen and a styled launch screen.
-- [X ] User can view a list of movies currently playing in theaters from The Movie Database.
-- [X ] Poster images are loaded using the UIImageView category in the AFNetworking library.
-- [X ] User sees a loading state while waiting for the movies API.
+- [X] User sees an app icon on the home screen and a styled launch screen.
+- [X] User can view a list of movies currently playing in theaters from The Movie Database.
+- [X] Poster images are loaded using the UIImageView category in the AFNetworking library.
+- [X] User sees a loading state while waiting for the movies API.
 - [X] User can pull to refresh the movie list.
 - [X] User sees an error message when there's a networking error.
-- [X ] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+- [X] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
@@ -31,7 +31,7 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Struggled with getting acquainted with XCode and Objective C. 
 
 ## Credits
 
