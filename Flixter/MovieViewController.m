@@ -63,6 +63,8 @@
     UIAlertAction *tryAgain = [UIAlertAction actionWithTitle:@"Try Again" style:UIAlertActionStyleDefault handler:^(UIAlertAction * _Nonnull action) {
         [self fetchMovies];
                         }];
+    UIAlertAction *cancel = [UIAlertAction actionWithTitle:@"Cancel" style:UIAlertActionStyleCancel handler:nil];
+    [alert addAction:cancel];
     [alert addAction:tryAgain];
     [self presentViewController:alert animated:YES completion:nil];
 }
