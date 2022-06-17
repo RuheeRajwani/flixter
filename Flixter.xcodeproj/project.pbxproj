@@ -20,6 +20,7 @@
 		EF44D57D285A49B5008EAA16 /* FlixterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EF44D57C285A49B5008EAA16 /* FlixterTests.m */; };
 		EF44D587285A49B5008EAA16 /* FlixterUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = EF44D586285A49B5008EAA16 /* FlixterUITests.m */; };
 		EF44D589285A49B5008EAA16 /* FlixterUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EF44D588285A49B5008EAA16 /* FlixterUITestsLaunchTests.m */; };
+		EFB2A0BF285BE49000B3F1B0 /* MovieViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EFB2A0BE285BE49000B3F1B0 /* MovieViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,8 @@
 		EF44D582285A49B5008EAA16 /* FlixterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlixterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF44D586285A49B5008EAA16 /* FlixterUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FlixterUITests.m; sourceTree = "<group>"; };
 		EF44D588285A49B5008EAA16 /* FlixterUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FlixterUITestsLaunchTests.m; sourceTree = "<group>"; };
+		EFB2A0BD285BE49000B3F1B0 /* MovieViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MovieViewCell.h; sourceTree = "<group>"; };
+		EFB2A0BE285BE49000B3F1B0 /* MovieViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MovieViewCell.m; sourceTree = "<group>"; };
 		F6664EC60C4215AFE092461D /* Pods-Flixter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Flixter.release.xcconfig"; path = "Target Support Files/Pods-Flixter/Pods-Flixter.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -142,6 +145,8 @@
 				EF44D572285A49B5008EAA16 /* main.m */,
 				EF023D58285A84E300F0CDC4 /* MovieViewController.h */,
 				EF023D59285A84E300F0CDC4 /* MovieViewController.m */,
+				EFB2A0BD285BE49000B3F1B0 /* MovieViewCell.h */,
+				EFB2A0BE285BE49000B3F1B0 /* MovieViewCell.m */,
 			);
 			path = Flixter;
 			sourceTree = "<group>";
@@ -381,6 +386,7 @@
 				EF44D562285A49B3008EAA16 /* AppDelegate.m in Sources */,
 				EF44D573285A49B5008EAA16 /* main.m in Sources */,
 				EF44D565285A49B3008EAA16 /* SceneDelegate.m in Sources */,
+				EFB2A0BF285BE49000B3F1B0 /* MovieViewCell.m in Sources */,
 				EF023D5A285A84E300F0CDC4 /* MovieViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
