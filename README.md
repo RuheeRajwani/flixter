@@ -25,7 +25,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://submissions.us-east-1.linodeobjects.com/metau_ios/dhMEeqkm.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif](https://submissions.us-east-1.linodeobjects.com/metau_ios/dhMEeqkm.gif)(https://github.com/RuheeRajwani/flixter/blob/main/dhMEeqkm%20(2).gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
